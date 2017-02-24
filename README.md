@@ -1,4 +1,4 @@
-#Ayudantia leccion 14
+# Ayudantia leccion 14
   -git init
   -git add .
   -git commit -m "first commit"
